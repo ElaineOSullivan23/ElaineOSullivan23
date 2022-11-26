@@ -1,4 +1,6 @@
 # Welcome
-Hello, my name is Elaine.
-I an currently a third year Computer Science Student at University College Cork.
-My interests are in Devops, Cloud Computing, Networks and Data Security.
+👋 Hi, I’m @ElaineOSullivan23
+👀 I’m interested in Devops, Cloud Computing, Networks and Data Security 
+🌱 I’m currently in my third year at UCC studying Computer Science
+💞️ I’m looking to collaborate on not sure yet.
+📫 How to reach me - on github
